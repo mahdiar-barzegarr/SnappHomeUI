@@ -31,11 +31,6 @@ This is a UI/UX-focused project that replicates the **home screen of the Snapp a
 ![SnappHomeUI Screenshot](https://raw.githubusercontent.com/mahdiar-barzegarr/SnappHomeUI/refs/heads/main/image.png)
 
 
-| Home Screen | Bottom Nav |
-|-------------|------------|
-| ![Home](screenshots/home.png) | ![Nav](screenshots/bottom_nav.png) |
-
----
 
 ## 🚀 Getting Started
 
